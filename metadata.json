@@ -1,0 +1,6 @@
+{
+  "name": "ECHO-9: The Last Signal",
+  "description": "A 2D top-down sci-fi survival horror game set aboard the abandoned space station ECHO-9 in 2189.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
